@@ -1,3 +1,5 @@
+# Source: https://stackoverflow.com/questions/35237245/how-to-create-a-websocket-client-by-using-qwebsocket-in-pyqt5
+
 import json
 
 from PyQt6 import QtCore, QtNetwork, QtWebSockets
